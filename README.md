@@ -16,7 +16,7 @@ Personal information 🥇.
 - 🇦🇷 I'm from Argentina.
 - 🔑 I'm currently working on 🥶 Thermo King LA.
 - 🥬 I know programming in: 🐍Python; 🔤C#; 🕸️HTML; 🍪PHP; 📜JavaScript; 🤖Android with JDK; 📅SQL.
-- 🧍  I'm looking to collaborate on.
+- 🧍  I'm looking to collaborate on a System project.
 - 🔡 I'm looking for a systems job.
 - 🧑‍💻 This year I become a Systems Analyst.
 - 🤙 About me: football, fitness and 🎥.
