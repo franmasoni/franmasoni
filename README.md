@@ -14,7 +14,7 @@ https://github-readme-stats.vercel.app/api?username=franmasoni
 
 Personal information 🥇.
 - 🇦🇷 I'm from Argentina.
-- 🔑 I'm currently working on 🥶 Thermo King LA.
+- 🔑 I'm currently working on 🧑‍💻 Neural Soft in softwares support.
 - 🥬 I know programming in: 🐍Python; 🔤C#; 🕸️HTML; 🍪PHP; 📜JavaScript; 🤖Android with JDK; 📅SQL.
 - 🧍  I'm looking to collaborate on a System project.
 - 🔡 I'm looking for a systems job.
